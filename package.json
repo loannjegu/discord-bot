@@ -1,0 +1,19 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.3.0",
+    "fs": "^0.0.1-security",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
